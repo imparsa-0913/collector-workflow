@@ -1,6 +1,6 @@
 # 🚀 Config & Proxy Collector
 
-[![WebSite](https://img.shields.io/badge/Website-Visit_Now-blue?style=for-the-badge&logo=github)](https://mrpaster12.github.io/config-proxy-collector/)
+[![WebSite](https://img.shields.io/badge/Website-Visit_Now-blue?style=for-the-badge&logo=github)](https://imparsa-0913.github.io/collector-workflow/)
 
 به پروژه **جمع‌آوری‌کننده پروکسی و کانفیگ** خوش آمدید! 🌟
 این پروژه یک ابزار (و وب‌سایت) خودکار است که با جستجو در منابع مختلف، جدیدترین و سالم‌ترین کانفیگ‌ها و پروکسی‌ها را برای دور زدن محدودیت‌های اینترنتی جمع‌آوری کرده و در اختیار شما قرار می‌دهد.
