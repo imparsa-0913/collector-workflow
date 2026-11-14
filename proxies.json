@@ -1,69 +1,6 @@
 {
-  "updated_at": "2026-11-13 19:14:29",
+  "updated_at": "2026-11-14 04:58:25",
   "proxies": [
-    {
-      "url": "tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-      "web_url": "https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-      "server": "topproxt.asia",
-      "port": "443",
-      "secret": "eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "ccc.horizon555.co.uk",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-      "web_url": "https://t.me/proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-      "server": "max.fastprx.top",
-      "port": "443",
-      "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "3etare.co.uk.",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "nocloudnew.co.uk.",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "support.infinityhalo.co.uk.",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
-      "web_url": "https://t.me/proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
-      "server": "79.137.196.223",
-      "port": "443",
-      "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
     {
       "url": "tg://proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "web_url": "https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
@@ -71,7 +8,7 @@
       "port": "8443",
       "secret": "EERighJJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d",
@@ -80,7 +17,7 @@
       "port": "443",
       "secret": "ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
@@ -89,43 +26,34 @@
       "port": "8443",
       "secret": "EERighJJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
-      "url": "tg://proxy?server=n78dcf0.tidalcache.com&port=443&secret=7lyJqyAmbOdZ-WoHRbY9fN9lZGdlLnRpZGFsY2FjaGUuY29t",
-      "web_url": "https://t.me/proxy?server=n78dcf0.tidalcache.com&port=443&secret=7lyJqyAmbOdZ-WoHRbY9fN9lZGdlLnRpZGFsY2FjaGUuY29t",
-      "server": "n78dcf0.tidalcache.com",
-      "port": "443",
-      "secret": "7lyJqyAmbOdZ-WoHRbY9fN9lZGdlLnRpZGFsY2FjaGUuY29t",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=surge.proxylite.tech&port=443&secret=7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA",
-      "web_url": "https://t.me/proxy?server=surge.proxylite.tech&port=443&secret=7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA",
-      "server": "surge.proxylite.tech",
-      "port": "443",
-      "secret": "7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=130.210.28.61&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d",
-      "web_url": "https://t.me/proxy?server=130.210.28.61&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d",
-      "server": "130.210.28.61",
-      "port": "8443",
-      "secret": "ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "speed.runserver.co.uk.",
+      "url": "tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "web_url": "https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "server": "jhndoes.co.uk.",
       "port": "8443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "web_url": "https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "server": "exiscos.co.uk.",
+      "port": "8443",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "web_url": "https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "server": "termsnal.co.uk.",
+      "port": "8443",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -134,7 +62,7 @@
       "port": "8443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -143,16 +71,16 @@
       "port": "8443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
-      "url": "tg://proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "web_url": "https://t.me/proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "server": "ir.mohearn.co.uk",
+      "url": "tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "web_url": "https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "server": "speed.runserver.co.uk.",
       "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=ir.lv426.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
@@ -161,7 +89,7 @@
       "port": "8443",
       "secret": "EERighJJvXrFGRMCIMjdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
@@ -170,7 +98,16 @@
       "port": "8443",
       "secret": "EERighJJvXrFGRMCIMjdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "web_url": "https://t.me/proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "server": "ir.mohearn.co.uk",
+      "port": "8443",
+      "secret": "EERighJJvXrFGRMCIMjdCQ",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
@@ -179,7 +116,7 @@
       "port": "443",
       "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
@@ -188,7 +125,7 @@
       "port": "443",
       "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
@@ -197,7 +134,7 @@
       "port": "443",
       "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -206,7 +143,7 @@
       "port": "443",
       "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -215,7 +152,7 @@
       "port": "8443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -224,43 +161,7 @@
       "port": "443",
       "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "web_url": "https://t.me/proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "server": "fast.strobox.info",
-      "port": "443",
-      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "web_url": "https://t.me/proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "server": "Tond.strobox.info",
-      "port": "443",
-      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "web_url": "https://t.me/proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "server": "ir.strobox.info",
-      "port": "443",
-      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt",
-      "web_url": "https://t.me/proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt",
-      "server": "195.62.32.55",
-      "port": "443",
-      "secret": "3XnnAQIAAQAH8AMDhuJMOt",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=176.65.128.63&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
@@ -269,7 +170,7 @@
       "port": "443",
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
@@ -278,7 +179,16 @@
       "port": "443",
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt",
+      "web_url": "https://t.me/proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt",
+      "server": "195.62.32.55",
+      "port": "443",
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
@@ -287,25 +197,7 @@
       "port": "443",
       "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=mediaone91.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
-      "web_url": "https://t.me/proxy?server=mediaone91.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
-      "server": "mediaone91.mtpvideo.my",
-      "port": "443",
-      "secret": "dd616cf892574b078aab3f73e63b8b7df4",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
-    },
-    {
-      "url": "tg://proxy?server=playplus.mtproxy.me&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
-      "web_url": "https://t.me/proxy?server=playplus.mtproxy.me&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
-      "server": "playplus.mtproxy.me",
-      "port": "443",
-      "secret": "ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
-      "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=Caspian-sea.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -314,16 +206,16 @@
       "port": "7443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
-      "url": "tg://proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "web_url": "https://t.me/proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "server": "Pasargad.ir.bcsadwtgd.info.",
+      "url": "tg://proxy?server=iran.yes.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "web_url": "https://t.me/proxy?server=iran.yes.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "server": "iran.yes.ir.bcsadwtgd.info",
       "port": "7443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -332,7 +224,43 @@
       "port": "7443",
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
       "channel": "ProxyMTProto",
-      "scraped_at": "2026-11-13 19:14:05"
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "web_url": "https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "server": "tazenafas.dingi3.co.uk",
+      "port": "4455",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "web_url": "https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "server": "jadide.mamadali.co.uk",
+      "port": "4455",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "web_url": "https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "server": "kasco.alhosein.co.uk",
+      "port": "4455",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
+    },
+    {
+      "url": "tg://proxy?server=gram.prxtg.top&port=443&secret=eeabde1be2accd3413ec8e8a0fa256287f64726976652e676f6f676c652e636f6d",
+      "web_url": "https://t.me/proxy?server=gram.prxtg.top&port=443&secret=eeabde1be2accd3413ec8e8a0fa256287f64726976652e676f6f676c652e636f6d",
+      "server": "gram.prxtg.top",
+      "port": "443",
+      "secret": "eeabde1be2accd3413ec8e8a0fa256287f64726976652e676f6f676c652e636f6d",
+      "channel": "ProxyMTProto",
+      "scraped_at": "2026-11-14 04:58:02"
     },
     {
       "url": "tg://proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c",
@@ -341,7 +269,7 @@
       "port": "443",
       "secret": "f29640b148781b897c10ecf51938086c",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8",
@@ -350,7 +278,7 @@
       "port": "8081",
       "secret": "2f10ef5a51d3689938d7825c8c5a8ad8",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e",
@@ -359,7 +287,7 @@
       "port": "555",
       "secret": "ddbb2753bb20cf1e956aeaaea0e5638b7e",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916",
@@ -368,7 +296,7 @@
       "port": "500",
       "secret": "ddf48f621b110f302e468756840c29f916",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154",
@@ -377,7 +305,7 @@
       "port": "8443",
       "secret": "dd6e896e4745f8cb61486ee2dbf0114154",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=mash.drproxy.pro&port=443&secret=dda5a7b5711e648c7bd534e4e87de2241b",
@@ -386,7 +314,7 @@
       "port": "443",
       "secret": "dda5a7b5711e648c7bd534e4e87de2241b",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000",
@@ -395,25 +323,7 @@
       "port": "1088",
       "secret": "00000000000000000000000000000000",
       "channel": "MTProto_Proxy",
-      "scraped_at": "2026-11-13 19:14:07"
-    },
-    {
-      "url": "tg://proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-      "web_url": "https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-      "server": "panel.hook--tehran.co.uk.",
-      "port": "443",
-      "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-      "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
-    },
-    {
-      "url": "tg://proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-      "web_url": "https://t.me/proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-      "server": "MAP.cooptoop.site.",
-      "port": "443",
-      "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-      "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:03"
     },
     {
       "url": "tg://proxy?server=78.47.131.66&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -422,7 +332,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=78.46.240.254&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -431,7 +341,25 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
+    },
+    {
+      "url": "tg://proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
+      "web_url": "https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
+      "server": "panel.hook--tehran.co.uk.",
+      "port": "443",
+      "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+      "channel": "TelMTProto",
+      "scraped_at": "2026-11-14 04:58:05"
+    },
+    {
+      "url": "tg://proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
+      "web_url": "https://t.me/proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
+      "server": "MAP.cooptoop.site.",
+      "port": "443",
+      "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+      "channel": "TelMTProto",
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=65.108.209.51&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -440,7 +368,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=65.109.255.138&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -449,7 +377,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -458,7 +386,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -467,7 +395,16 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
+    },
+    {
+      "url": "tg://proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+      "web_url": "https://t.me/proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+      "server": "ir.strobox.info",
+      "port": "443",
+      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+      "channel": "TelMTProto",
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQ",
@@ -476,7 +413,7 @@
       "port": "75",
       "secret": "ameuTC0XO0FodFQ1yzE6OQ",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=46.225.35.245&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
@@ -485,7 +422,7 @@
       "port": "443",
       "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=65.109.245.252&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -494,7 +431,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=5.75.252.233&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -503,7 +440,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -512,7 +449,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=17.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -521,7 +458,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=16.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -530,7 +467,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=gole-sorati.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -539,7 +476,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -548,7 +485,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=strong.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -557,7 +494,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -566,7 +503,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
@@ -575,7 +512,7 @@
       "port": "75",
       "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -584,7 +521,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=elrmam.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -593,7 +530,7 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=613.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -602,7 +539,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=614.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -611,7 +548,7 @@
       "port": "8443",
       "secret": "dd104462821249bd7ac519130220c25d09",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
@@ -620,7 +557,16 @@
       "port": "8443",
       "secret": "1603010200010001fc030386e24c3add",
       "channel": "TelMTProto",
-      "scraped_at": "2026-11-13 19:14:08"
+      "scraped_at": "2026-11-14 04:58:05"
+    },
+    {
+      "url": "tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "web_url": "https://t.me/proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "server": "math-test.bypased.info",
+      "port": "8443",
+      "secret": "1603010200010001fc030386e24c3add",
+      "channel": "TelMTProto",
+      "scraped_at": "2026-11-14 04:58:05"
     },
     {
       "url": "tg://proxy?server=MicRo90.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -629,7 +575,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=MicRo110.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -638,7 +584,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=MicRo120.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -647,7 +593,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=War55.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -656,7 +602,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=War77.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -665,7 +611,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=iro.3utilities.com&port=443&secret=fb175d6d7f820cdc73ab11edbdcdbd74",
@@ -674,7 +620,7 @@
       "port": "443",
       "secret": "fb175d6d7f820cdc73ab11edbdcdbd74",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=haha.hmaresistance.live&port=8080&secret=dd00000000000000000000000000000000",
@@ -683,7 +629,7 @@
       "port": "8080",
       "secret": "dd00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=Gard10.KingPoroxy.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -692,7 +638,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=B10.Fire.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -701,7 +647,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=Yo.Fire.dynu.com&port=8080&secret=00000000000000000000000000000000",
@@ -710,7 +656,7 @@
       "port": "8080",
       "secret": "00000000000000000000000000000000",
       "channel": "Proxy_MTProto_Telegram",
-      "scraped_at": "2026-11-13 19:14:16"
+      "scraped_at": "2026-11-14 04:58:13"
     },
     {
       "url": "tg://proxy?server=98.best.web.rubika.ir.rubika.guru&port=15443&ref_secret-share=@mtprotoproxies&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d",
@@ -719,7 +665,7 @@
       "port": "15443",
       "secret": "ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ28vZ2xlImNvbG%3D%3D",
@@ -728,7 +674,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ28vZ2xlImNvbG==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=99.best.web.rubika.ir.rubika.guru&port=15443&ref_secret-share=@mtprotoproxies&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d",
@@ -737,7 +683,7 @@
       "port": "15443",
       "secret": "ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlImNvbG%3D%3D",
@@ -746,7 +692,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlImNvbG==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=188.121.120.162&port=443&ref_secret-share=@mtprotoproxies&secret=eeb25cdf534b9932f979178225924f9dd2747632632e646967696b616c612e636f6d",
@@ -755,7 +701,7 @@
       "port": "443",
       "secret": "eeb25cdf534b9932f979178225924f9dd2747632632e646967696b616c612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbG%3D%3D",
@@ -764,7 +710,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbG==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2clLmNvbQ%3D%3D",
@@ -773,7 +719,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2clLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbQ%3Dm",
@@ -782,7 +728,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbQ=m",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=37.152.187.1&port=16928&ref_secret-share=@mtprotoproxies&secret=eead74247e6b60212fe3545bc0d2781ee67777772e676f6f6764652e636f6f",
@@ -791,7 +737,7 @@
       "port": "16928",
       "secret": "eead74247e6b60212fe3545bc0d2781ee67777772e676f6f6764652e636f6f",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ3xlLmNvbQ%3D%3D",
@@ -800,7 +746,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ3xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=188.121.120.226&port=443&ref_secret-share=@mtprotoproxies&secret=eeb25cdf534b9932f979178225924f9dd2747632622e646967696b616c612e636f6d",
@@ -809,7 +755,7 @@
       "port": "443",
       "secret": "eeb25cdf534b9932f979178225924f9dd2747632622e646967696b616c612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ3xlLmNvbQ%3D%3D",
@@ -818,7 +764,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ3xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=188.121.120.226&port=443&ref_secret-share=@mtprotoproxies&secret=eeb25cdf534b9932f979178225924f9dd2747632612e646967696b616c612e636f6d",
@@ -827,7 +773,7 @@
       "port": "443",
       "secret": "eeb25cdf534b9932f979178225924f9dd2747632612e646967696b616c612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ14vZ2xlLmNvbQ%3D%3D",
@@ -836,7 +782,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ14vZ2xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=188.121.120.162&port=443&ref_secret-share=@mtprotoproxies&secret=eeb25cdf534b9932f979178225924f9dd2747632392e646967696b616c612e636f6d",
@@ -845,7 +791,7 @@
       "port": "443",
       "secret": "eeb25cdf534b9932f979178225924f9dd2747632392e646967696b616c612e636f6d",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ15vZ2xlLmNvbQ%3D%3D",
@@ -854,7 +800,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ15vZ2xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=dl.chador-melli.co.uk&port=443&ref_secret-share=@mtprotoproxies&secret=7qzhY8KXmhgFyx0ZP_9KL4xkbC5nb29nbGUuY29t",
@@ -863,7 +809,7 @@
       "port": "443",
       "secret": "7qzhY8KXmhgFyx0ZP_9KL4xkbC5nb29nbGUuY29t",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ2xlLmNvbQ%3D%3D",
@@ -872,7 +818,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ2xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ19vZ2xlLmNvbQ%3D%3D",
@@ -881,7 +827,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ19vZ2xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     },
     {
       "url": "tg://proxy?server=95.217.135.241&port=443&ref_secret-share=@mtprotoproxies&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ11vZ2xlLmNvbQ%3D%3D",
@@ -890,7 +836,7 @@
       "port": "443",
       "secret": "7pJZSUjIp-43RmluNUkNmWNkbnMuZ11vZ2xlLmNvbQ==",
       "channel": "MTProtoProxies",
-      "scraped_at": "2026-11-13 19:14:28"
+      "scraped_at": "2026-11-14 04:58:24"
     }
   ]
 }
